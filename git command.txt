@@ -1,0 +1,27 @@
+Git version
+
+Git help
+
+git config –global user.name “neeharika”
+
+git config –global user.email  abc@gmail.com
+
+mkdir firstrepo
+
+cd firstrepo
+
+git init
+
+touch master.txt
+
+notepad master.txt
+
+git status
+
+git add .
+
+git status
+
+git commit –m
+
+git log
